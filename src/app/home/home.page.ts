@@ -31,7 +31,7 @@ export class HomePage {
   ngOnInit() {
     let json = this.http
     .get(
-      "https://api.dxsurvey.com/api/Survey/getSurvey?surveyId=98e3e441-23af-4825-9d3e-9fa445cbfaf3"
+      "http://api.dxsurvey.com/api/Survey/getSurvey?surveyId=98e3e441-23af-4825-9d3e-9fa445cbfaf3"
     )
     .subscribe(res => {
       this.jsonData = JSON.stringify(res);
