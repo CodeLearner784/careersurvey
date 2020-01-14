@@ -1,0 +1,7 @@
+{
+  "name": "surveyapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
