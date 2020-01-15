@@ -19,7 +19,7 @@ var surveyJSON = {
           type: "html",
           name: "Comment",
           html:
-            "<p>Target Group: People who had successful mid-career transition to the IT industry and currently in employment in IT industry.</p>\n\n<h1>Informed Consent</h1>\n\n<p>This interview is in the context of the research project “Key factors of Successful Mid-career Transition in the IT industry – Relevant in the New Zealand context”.</p>\n\n<p>I am going to ask you a few questions about the processes, job functions and skills in your organization. The data and results of this interview will be processed confidentially and will be used only for analysis and/or scientific presentations. You have the right to withdraw from this research at any time. Do you agree to participate in this research?</p>"
+            "<p>Target Group: People above 30 years old in New Zealand who had successful mid-career transition to the IT industry or in the process of mid-career transition.</p>\n\n<h1>Informed Consent</h1>\n\n<p>This interview is in the context of the research project “What are the key factors of successful mid-career transition in securing an IT industry job, relevant in New Zealand context?”.</p>\n\n<p>I am going to ask you a few questions about the processes, job functions and skills in your organization. The data and results of this interview will be processed confidentially and will be used only for analysis and/or scientific presentations. You have the right to withdraw from this research at any time. Do you agree to participate in this research?</p>"
         },
         {
           type: "text",
